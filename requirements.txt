@@ -1,0 +1,7 @@
+streamlit
+sympy
+matplotlib
+numpy
+pillow
+pytesseract
+python-docx
